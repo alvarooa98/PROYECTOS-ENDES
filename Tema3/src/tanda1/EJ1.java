@@ -13,6 +13,7 @@ public class EJ1 {
 		System.out.println("Apellidos: ");
 		apellidos = teclado.nextLine();
 		System.out.println("Bienvenido " + nombre + " " + apellidos);
+		System.out.println("Esperamos que estés bien");
 
 		teclado.close();
 	}
